@@ -1,5 +1,5 @@
 // MohoscopeEngine.java
-// Audrey St. John
+
 
 /** 
  * Class for generating mohoscopes, 
