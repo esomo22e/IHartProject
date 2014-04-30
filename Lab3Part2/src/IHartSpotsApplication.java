@@ -1,5 +1,5 @@
 // IHartSpotsApplication.java
-// Audrey St. John
+
 
 // swing 
 import javax.swing.JFrame;
