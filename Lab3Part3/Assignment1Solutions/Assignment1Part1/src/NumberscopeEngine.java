@@ -1,5 +1,5 @@
 // NumberscopeEngine.java
-// Audrey St. John
+
 
 /** 
  * Class for generating numberscopes, 
