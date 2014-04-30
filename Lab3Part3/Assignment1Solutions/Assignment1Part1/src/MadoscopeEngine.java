@@ -1,5 +1,5 @@
 // MadoscopeEngine.java
-// Audrey St. John
+
 
 /**
  * The MadoscopeEngine has a set of "horoscope" templates as well as a set of
