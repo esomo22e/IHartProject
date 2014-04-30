@@ -1,9 +1,8 @@
 // HoroscopeEngine.java
-// Audrey St. John
 
 /** 
  * Interface for generating horoscopes. 
- * @author Audrey St. John
+ * 
  **/
 public interface HoroscopeEngine
 {
