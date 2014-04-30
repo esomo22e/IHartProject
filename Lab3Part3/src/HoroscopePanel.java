@@ -1,5 +1,5 @@
 // HoroscopePanel.java
-// Audrey St. John
+// 
 
 // awt
 import java.awt.GridLayout;
@@ -12,7 +12,7 @@ import javax.swing.JPanel;
 
 /**
  * HoroscopePanel is a GUI element that displays 3 different horoscopes.
- * @author Audrey St. John
+ * 
  **/
 public class HoroscopePanel extends JPanel
 {
