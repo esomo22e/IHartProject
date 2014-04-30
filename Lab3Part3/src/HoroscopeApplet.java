@@ -1,5 +1,5 @@
 // HoroscopeApplet.java
-// Audrey St. John
+
 
 // awt
 import java.awt.BorderLayout;
