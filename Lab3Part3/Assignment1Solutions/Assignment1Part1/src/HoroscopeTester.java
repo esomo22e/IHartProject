@@ -1,7 +1,7 @@
 /**
  * HoroscopeTester tests out various HoroscopeEngines. 
  * Takes the type of horoscope as a command line argument. 
- * @author Audrey St. John
+ * @author 
  **/
 public class HoroscopeTester
 {
