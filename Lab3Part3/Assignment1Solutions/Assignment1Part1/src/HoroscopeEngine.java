@@ -2,7 +2,7 @@
 
 /** 
  * Interface for generating horoscopes. 
- * @author Audrey St. John
+ *
  **/
 public interface HoroscopeEngine
 {
