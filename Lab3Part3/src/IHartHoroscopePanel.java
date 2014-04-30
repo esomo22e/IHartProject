@@ -1,4 +1,6 @@
 // IHartHoroscopePanel.java
+//Code given by Audrey St.John
+
 // CS 201
  
 // awt
