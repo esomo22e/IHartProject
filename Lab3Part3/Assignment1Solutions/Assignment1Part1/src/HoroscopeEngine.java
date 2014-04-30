@@ -1,5 +1,4 @@
 // HoroscopeEngine.java
-// Audrey St. John
 
 /** 
  * Interface for generating horoscopes. 
